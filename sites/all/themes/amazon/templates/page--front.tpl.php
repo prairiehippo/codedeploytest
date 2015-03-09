@@ -11,6 +11,6 @@
 <div class="container">
 	<div id="content">
 		<img src="sites/all/themes/amazon/images/logo.png" />
-		<!-- <img src="sites/all/themes/amazon/images/goat.jpg" /> -->
+		<img src="sites/all/themes/amazon/images/goat.jpg" />
 	</div>
 </div>
